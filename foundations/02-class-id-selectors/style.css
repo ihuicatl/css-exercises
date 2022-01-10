@@ -1,0 +1,22 @@
+body {
+    background-color: #203A40;
+}
+
+.odd {
+    background-color: #c385d2;
+    font-family: Verdana sans-serif;
+}
+
+#num2 {
+    color: #6161de;
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: #408064;
+    font-weight: bold;
+}
+
+.cooler, #num4 {
+    font-size: 24px;
+}
